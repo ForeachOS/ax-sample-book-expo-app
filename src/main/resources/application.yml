@@ -1,0 +1,9 @@
+acrossHibernate:
+  create-unit-of-work-factory: true
+
+adminWebModule:
+  login:
+    rememberMe:
+      key: expo-changeme
+  root-path: /
+  title: Expo
